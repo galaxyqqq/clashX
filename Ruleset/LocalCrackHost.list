@@ -1,0 +1,5 @@
+#本地破解软件需要屏蔽的host
+#bettertouchtool
+DOMAIN,updates.boastr.net
+DOMAIN-SUFFIX,folivora.ai
+
