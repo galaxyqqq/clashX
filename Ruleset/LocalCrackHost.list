@@ -1,6 +1,11 @@
-#本地破解软件需要屏蔽的host
-#bettertouchtool
+#本文件用于添加电脑本地需要屏蔽的host
+
+#bettertouchtool破解版
 DOMAIN,updates.boastr.net
 DOMAIN-SUFFIX,folivora.ai
 DOMAIN,proxifier.com
 DOMAIN-SUFFIX,proxifier.com
+
+#sublimetext4屏蔽更新检测
+127.0.0.1 license.sublimehq.com
+127.0.0.1 www.sublimetext.com
