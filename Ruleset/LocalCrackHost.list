@@ -1,6 +1,6 @@
 #本文件用于添加电脑本地需要屏蔽的host
 
-#bettertouchtool破解版
+#bettertouchtool破解版屏蔽证书检测
 DOMAIN,updates.boastr.net
 DOMAIN-SUFFIX,folivora.ai
 DOMAIN,proxifier.com
@@ -9,3 +9,8 @@ DOMAIN-SUFFIX,proxifier.com
 #sublimetext4屏蔽更新检测
 127.0.0.1 license.sublimehq.com
 127.0.0.1 www.sublimetext.com
+
+#屏蔽苹果更新服务器
+127.0.0.1 swscan.apple.com
+127.0.0.1 swdist.apple.com
+127.0.0.1 swcdn.apple.com
